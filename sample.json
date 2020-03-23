@@ -1,17 +1,3 @@
 {
-  "instructors": [
-    { "id": 1, "name": "Marat", "location": "Seattle" },
-    { "id": 2, "name": "Janat", "location": "Idaho" },
-    { "id": 3, "name": "Ulan", "location": "California" },
-  ],
-  "reviews": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "seytech"
-  },
-  "people": {
     "leo": "Leonardo Wilhelm DiCaprio is an American actor, producer, and environmentalist. He has often played unconventional parts, particularly in biopics and period films. As of 2019, his films have earned US$7.2 billion worldwide, and he has placed eight times in annual rankings of the world's highest-paid actors."
-  }
 }
