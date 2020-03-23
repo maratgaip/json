@@ -10,10 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "instructors": [
-    { "id": 1, "name": "Marat", "location": "Seattle" },
-    { "id": 2, "name": "Janat", "location": "Idaho" },
-    { "id": 3, "name": "Ulan", "location": "California" },
-  ]
+  }
 }
